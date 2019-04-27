@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionUtil</string>
+    <string name="call_phone">打电话</string>
+    <string name="permission_denied">权限被拒绝</string>
+</resources>
